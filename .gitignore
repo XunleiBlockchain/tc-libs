@@ -1,0 +1,9 @@
+*.swp
+*.swo
+.bak
+*.bak
+.DS_Store
+.vscode/
+.idea
+
+stest/
